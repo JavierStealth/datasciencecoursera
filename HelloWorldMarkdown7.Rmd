@@ -1,0 +1,12 @@
+---
+title: "HWM7"
+author: "Random Soul"
+date: "3/15/2020"
+output: word_document
+---
+
+```{r}
+print ("Hello World!")
+```
+
+## This is a Markdown file.
